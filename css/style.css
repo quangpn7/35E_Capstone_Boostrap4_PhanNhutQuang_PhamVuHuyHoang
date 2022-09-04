@@ -951,6 +951,10 @@ p {
 .dark#footer__top {
   background-color: #151515;
 }
+.dark#footer__bottom a,
+.dark#footer__bottom li {
+  color: #999;
+}
 
 .dark h2,
 .dark h3,
