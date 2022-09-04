@@ -865,7 +865,20 @@ p {
 @media (max-width: 992.9px) {
   .mode-container {
     position: absolute;
-    right: 6.25rem;
+    right: 18.25rem;
+    top: 1.5rem;
+  }
+}
+@media (max-width: 767.9px) {
+  .mode-container {
+    position: absolute;
+    right: 12.25rem;
+  }
+}
+@media (max-width: 400px) {
+  .mode-container {
+    position: absolute;
+    right: 7.25rem;
   }
 }
 
